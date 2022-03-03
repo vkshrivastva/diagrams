@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T07:16:16.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="OTX3g32m2vrwo2z_lcmn" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T07:16:52.096Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="Q3PdrA7WQAXkPhdIwzgs" version="16.6.5" type="github">
   <diagram id="bMfHXcnNPN3_OucriJFl" name="Page-1">
     <mxGraphModel dx="1140" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-SGei8ItMMGrmaWpwYBP-245" value="IBM Cloud" style="shape=mxgraph.ibm.box;prType=cloud;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=0;spacing=-4;collapsible=0;expand=0;recursiveResize=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="10" y="170" width="950" height="878" as="geometry" />
+          <mxGeometry x="10" y="170" width="950" height="760" as="geometry" />
         </mxCell>
         <mxCell id="-SGei8ItMMGrmaWpwYBP-246" value="Tokyo" style="shape=mxgraph.ibm.box;prType=region;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=0;container=0;spacing=-4;collapsible=0;expand=0;recursiveResize=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="20" y="200" width="930" height="840" as="geometry" />
+          <mxGeometry x="20" y="200" width="930" height="700" as="geometry" />
         </mxCell>
         <mxCell id="-SGei8ItMMGrmaWpwYBP-248" value="VPC" style="shape=mxgraph.ibm.box;prType=vpc;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=2;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="230" width="720" height="800" as="geometry" />
+          <mxGeometry x="30" y="230" width="720" height="640" as="geometry" />
         </mxCell>
         <mxCell id="ziAIK8e2hK0k-ULHB1On-2" value="Zone-2" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="-SGei8ItMMGrmaWpwYBP-248">
           <mxGeometry x="370" y="30" width="340" height="580" as="geometry" />
